@@ -6,6 +6,14 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plushhero/Markdown-Table-Converter"
+  },
+  "bugs": {
+    "url": "https://github.com/plushhero/Markdown-Table-Converter/issues"
+  },
+  "homepage": "https://github.com/plushhero/Markdown-Table-Converter/blob/master/README.md",
   "categories": [
     "Formatters",
     "Other"
@@ -44,7 +52,7 @@
     "test": "vscode-test"
   },
   "devDependencies": {
-    "@types/vscode": "^1.110.0",
+    "@types/vscode": "^1.85.0",
     "@types/mocha": "^10.0.10",
     "@types/node": "22.x",
     "typescript-eslint": "^8.56.1",

@@ -1,4 +1,5 @@
 .vscode
+.package-lock.json
 **/__*
 out
 node_modules
