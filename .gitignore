@@ -1,0 +1,13 @@
+.vscode
+**/__*
+out
+node_modules
+*.vsix
+ROADMAP.md
+*.log
+/.vscode-test
+dist
+tmp
+
+/welcome/**
+/changes.md
